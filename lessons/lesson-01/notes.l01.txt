@@ -1,0 +1,14 @@
+Topics:
+  1. (10 mins) Introduce each other 
+  2. (15 mins) goals of course
+    a. expose students to software tools
+      - languages: python, javascript, typescript, glsl
+      - software: github, (vscode/gitpod)
+      - libraries: python: (pytorch/tensorflow) js/ts: (react/threejs)  
+    b. practical experience (minimize listening to lectures)
+    c. provide a platform that students can build off of
+  3. (10 mins) Comparison of computational/biological neurons
+  4. (20 mins) forward pass 
+  6. (30 mins) 
+  7.
+  8.
