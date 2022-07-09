@@ -10,3 +10,7 @@ command-line-cheat-sheet.png
 ### https://docs.github.com/en/get-started/quickstart/fork-a-repo
 fork_button.png
 ###
+
+### https://en.wikipedia.org/wiki/Activation_function
+activation_functions.png
+###
