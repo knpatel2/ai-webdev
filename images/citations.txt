@@ -3,3 +3,6 @@ biological-neuron.png
 perceptron.png
 ###
 
+### https://www.git-tower.com/blog/command-line-cheat-sheet/
+command-line-cheat-sheet.png
+###
