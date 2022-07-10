@@ -17,7 +17,6 @@ activation_functions.png
 
 ### https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
 matt_network_numbered.png
-matt_network.png
 matt_backward_output_node.png
 matt_backward_network.png
 ###
