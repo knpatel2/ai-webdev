@@ -5,3 +5,5 @@ Topics:
     b. practical experience (minimize listening to lectures)
     c. provide a platform that students can build off of
   3.  Comparison of computational/biological neurons
+
+Need to separate notebook info to markdown
