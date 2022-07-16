@@ -1,0 +1,38 @@
+Introduce Ourselves 
+------------------------------------------------------------------------
+Discuss goals of course
+  a. expose students to software tools  
+  b. practical experience (minimize listening to lectures)
+  c. provide a platform that students can build off of
+------------------------------------------------------------------------
+Create GitHub Account
+
+github - version control system
+  a. Lets you maintain a versioned history of your work.
+    - ex. You can lose work if you write over something and save the document.
+    - ex. If your code is crashing and you don't know why, go back to a working version. (updating libraries example)
+    - ex. You can compare your versions to find bugs in your code.
+  b. Provides an open-source platform to learn from eachother
+
+
+Provides unlimited private repositories if you are a student
+Free tools for students:
+https://education.github.com/pack
+------------------------------------------------------------------------
+Fork Github Repository
+
+Cloning vs Forking:
+  Forking a repository lets you create a copy of another repository that you can edit.
+
+------------------------------------------------------------------------
+Comparison of Perceptrons/biological neurons
+Biological Neurons
+  1. Output magnitude doesn't change
+  2. Rely on neurotransmitters to communicate
+Perceptrons
+  1. no concept of time
+  2. output magnitude changes with weights
+  3. rely on a bias term to help networks model data that isn't centered around the origin  
+
+------------------------------------------------------------------------
+Open TensorFlow's Neural Network Playground
