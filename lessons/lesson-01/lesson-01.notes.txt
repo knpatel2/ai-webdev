@@ -26,13 +26,43 @@ Cloning vs Forking:
 
 ------------------------------------------------------------------------
 Comparison of Perceptrons/biological neurons
+
 Biological Neurons
   1. Output magnitude doesn't change
   2. Rely on neurotransmitters to communicate
+
 Perceptrons
   1. no concept of time
   2. output magnitude changes with weights
-  3. rely on a bias term to help networks model data that isn't centered around the origin  
+  3. rely on a bias (b=1) term to help networks model data that isn't centered around the origin  
+
+------------------------------------------------------------------------
+Activation Functions
+
+move left->right, top->bottom 
 
 ------------------------------------------------------------------------
 Open TensorFlow's Neural Network Playground
+
+value of this website
+  1. need for these types of websites
+  2. link to github repo
+
+introduce website components
+  1. start with networks
+    - compare  website image with perceptron 
+  2. move left->right, top->bottom
+  3. URL
+
+
+2clust_lin_1hl_1n
+  b. compare website image with perceptron 
+  a. discuss 3 weights and bias term
+    - modify weights to visualize the similarity with y=mx+b
+    - say that weight at the end of net is unorthodox
+  c. compare training speed with 1hlnode and 8hlnodes
+
+  
+
+------------------------------------------------------------------------
+XOR Problem
