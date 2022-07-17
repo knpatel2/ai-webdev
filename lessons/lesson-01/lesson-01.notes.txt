@@ -1,18 +1,18 @@
 Introduce Ourselves 
 ------------------------------------------------------------------------
 Discuss goals of course
-  a. expose students to software tools  
-  b. practical experience (minimize listening to lectures)
-  c. provide a platform that students can build off of
+  1. expose students to software tools  
+  2. practical experience (minimize listening to lectures)
+  3. provide a platform that students can build off of
 ------------------------------------------------------------------------
 Create GitHub Account
 
 github - version control system
-  a. Lets you maintain a versioned history of your work.
+  1. Lets you maintain a versioned history of your work.
     - ex. You can lose work if you write over something and save the document.
     - ex. If your code is crashing and you don't know why, go back to a working version. (updating libraries example)
     - ex. You can compare your versions to find bugs in your code.
-  b. Provides an open-source platform to learn from eachother
+  2. Provides an open-source platform to learn from eachother
 
 
 Provides unlimited private repositories if you are a student
@@ -54,15 +54,46 @@ introduce website components
   2. move left->right, top->bottom
   3. URL
 
-
-2clust_lin_1hl_1n
-  b. compare website image with perceptron 
-  a. discuss 3 weights and bias term
-    - modify weights to visualize the similarity with y=mx+b
-    - say that weight at the end of net is unorthodox
-  c. compare training speed with 1hlnode and 8hlnodes
-
-  
+------------------------------------------------------------------------
+identity fn
+  1. give an example of variable scope
+  2. call function at bottom initially to debug
 
 ------------------------------------------------------------------------
-XOR Problem
+plot act fn
+  1. Camel Case
+  2. differences between plot/show 
+
+------------------------------------------------------------------------
+2 Cluster (linear)
+  1. compare website image with perceptron 
+  2. discuss 3 weights and bias term
+    - modify weights to visualize the similarity with y=mx+b
+    - say that weight at the end of net is unorthodox
+  3. compare training speed with 1hlnode and 8hlnodes
+
+------------------------------------------------------------------------
+XOR Problem (sigmoid)
+  1. historical significance (linear line can't separate data)
+  2. switch to sigmoid
+  3. find smallest #nodes required 
+
+------------------------------------------------------------------------
+Circle Problem (tanh)
+  1. output ranges for sigmoid and tanh
+  2. find smallest #nodes required 
+  3. Compare learning rate
+
+------------------------------------------------------------------------
+Spiral Problem (relu)
+  1. network width/depth
+  2. network could be solved if more nodes were allowed 
+  2. compare output visualizations of neurons 
+  3. ratio of train/test
+
+
+------------------------------------------------------------------------
+plot multiple activation functions 
+  1. work double for loop logic and variables
+
+  
