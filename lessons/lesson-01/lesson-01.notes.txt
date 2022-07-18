@@ -25,14 +25,15 @@ Cloning vs Forking:
   Forking a repository lets you create a copy of another repository that you can edit.
   Fetch upstream option
 
-Additional Steps For Each Lesson:
+additional steps for each lesson:
 1. Navigate to lesson-01.ipynb and open the file
 2. Click the two square icon to copy the raw contents of the file
 3. Click on the lesson-01 folder and then the "Add File" dropdown button
-4. Select the option to create a new file and set the file name to lesson-01.yourname.ipynb
+4. Select the option to create a new file and set the file name to lesson-01.yourGithubName.ipynb
 5. Paste the raw contents you copied into the new file
-6. Change the colab->name to lesson-01.yourname.ipynb
+6. Change the colab->name to lesson-01.yourGithubName.ipynb
 7. Change the url in the colab fiile link so that it matches the path to your notebook
+8. Send that path to the instructors
 
 
 ------------------------------------------------------------------------
