@@ -1,6 +1,7 @@
 Talk about adding self when using classes
 
 
+variables (ex. f(x), g(x), i, j) are used interchangeably
 ------------------------------------------------------------------------
 
 
