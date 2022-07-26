@@ -25,3 +25,8 @@ matt_backward_network.png
 ### https://www.javatpoint.com/reinforcement-learning
 what-is-reinforcement-learning.png
 ###
+
+### https://gsurma.medium.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288
+cartpole-inital.gif
+cartpole-trained.gif
+###
